@@ -13,4 +13,6 @@ Lint tools – FsharpLint
 Тестирование - xUnit + FsUnit
 
 Ресурсы – F# in action (основной)
-Get Programming with F#_ A guide for .NET developers	https://learn.microsoft.com/en-us/dotnet/fsharp/
+
+Get Programming with F#_ A guide for .NET developers
+	https://learn.microsoft.com/en-us/dotnet/fsharp/
